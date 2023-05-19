@@ -1,2 +1,2 @@
 # scalable-data-systems
-AWS
+AWS; dask; multi-processes
